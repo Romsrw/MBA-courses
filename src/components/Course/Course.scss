@@ -1,0 +1,26 @@
+.course {
+  margin-bottom: 68px;
+
+  &__title {
+    font-size: 26px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 120%;
+    margin-bottom: 54px;
+  }
+  &__modules {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
+@media screen and (max-width: 500px) {
+  .course {
+    margin-bottom: 26px;
+    &__title {
+      font-size: 22px;
+      margin-bottom: 27px;
+    }
+  }
+}

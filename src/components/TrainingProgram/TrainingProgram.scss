@@ -1,0 +1,13 @@
+.program {
+  padding: 0 91px;
+}
+@media screen and (max-width: 1380px) {
+  .program {
+    padding: 0 60px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .program {
+    padding: 0 15px;
+  }
+}
