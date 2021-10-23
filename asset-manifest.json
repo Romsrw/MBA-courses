@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MBA-courses/static/css/main.caa14397.chunk.css",
+    "main.js": "/MBA-courses/static/js/main.e1ba97b3.chunk.js",
+    "main.js.map": "/MBA-courses/static/js/main.e1ba97b3.chunk.js.map",
+    "runtime-main.js": "/MBA-courses/static/js/runtime-main.68c68056.js",
+    "runtime-main.js.map": "/MBA-courses/static/js/runtime-main.68c68056.js.map",
+    "static/js/2.fe9ce2b4.chunk.js": "/MBA-courses/static/js/2.fe9ce2b4.chunk.js",
+    "static/js/2.fe9ce2b4.chunk.js.map": "/MBA-courses/static/js/2.fe9ce2b4.chunk.js.map",
+    "static/js/3.eaadf5f0.chunk.js": "/MBA-courses/static/js/3.eaadf5f0.chunk.js",
+    "static/js/3.eaadf5f0.chunk.js.map": "/MBA-courses/static/js/3.eaadf5f0.chunk.js.map",
+    "index.html": "/MBA-courses/index.html",
+    "static/css/main.caa14397.chunk.css.map": "/MBA-courses/static/css/main.caa14397.chunk.css.map",
+    "static/js/2.fe9ce2b4.chunk.js.LICENSE.txt": "/MBA-courses/static/js/2.fe9ce2b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68c68056.js",
+    "static/js/2.fe9ce2b4.chunk.js",
+    "static/css/main.caa14397.chunk.css",
+    "static/js/main.e1ba97b3.chunk.js"
+  ]
+}
